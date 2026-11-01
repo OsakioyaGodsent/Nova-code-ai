@@ -1,6 +1,6 @@
 # Nova Code AI
 
-**Nova Code AI is an inclusive vibe-coding platform that helps anyone turn
+**Nova Code AI is an inclusive web based vibe-coding platform that helps anyone turn
 ideas into working software and beautiful UI/UX designs through
 natural-language prompts and AI-assisted development.**
 
