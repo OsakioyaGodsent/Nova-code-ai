@@ -108,3 +108,14 @@ Nova Code AI should support? Open a Discussion or Issue in this repository.
 Users remain responsible for how they use generated code and designs,
 including security, privacy, accessibility, intellectual property, and
 compliance with applicable laws.
+
+## Join the community
+
+Nova Code AI is under development, and your feedback can help shape it.
+
+- Ask questions about the project.
+- Suggest features and improvements.
+- Vote in our development-priority poll.
+- Share relevant mockups and experiments.
+
+[Join the Nova Code AI discussions](https://github.com/OsakioyaGodsent/Nova-code-ai/discussions)
